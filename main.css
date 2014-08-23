@@ -2,7 +2,9 @@
 	background-color: #e70101;
 	padding: 10px;
 }
-
+body {
+	margin:0;
+}
 #page1,
 #page2,
 #page3 {
